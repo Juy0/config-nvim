@@ -1,0 +1,2 @@
+# config-nvim
+configuration nvim
